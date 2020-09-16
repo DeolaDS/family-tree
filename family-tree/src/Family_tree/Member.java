@@ -11,6 +11,7 @@ import javafx.scene.control.Alert;
 
 /**
  * title: Member class
+ * date: 8/3/2020
  * purpose: Class that contains personal details, address and immediate relatives of a family member
  * 
  */
